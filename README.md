@@ -1,2 +1,2 @@
 # AlgorandDotNetCreateAccountDemo
-Demo Creating an Algorand Account using .NET
+Demo Creating an Algorand Account using C# and .NET.
